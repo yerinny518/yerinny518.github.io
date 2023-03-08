@@ -1,17 +1,12 @@
 ---
-name: Sujay Kundu
-username: xplor4r
-bio: "Full Stack Web Developer, based in Bangalore, India"
-site: https://sujaykundu.com
-avatar: xplor4r.png
-email: mail@sujaykundu.com
+name: Jung Ye Rin
+username: yerinny518
+bio: "Hello, my name is Jung Ye Rin."
+site: yerinny518.github.io/
+avatar: johndoe.png
+email: ajtwlsdudls@snu.ac.kr
 social:
     - title: "github"
-      url: "https://github.com/sujaykundu777"
-    - title: "linkedin"
-      url: "https://www.linkedin.com/in/sujaykundu"
-    - title: "youtube"
-      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-    - title: "facebook"
-      url: "https://www.facebook.com/sujay.kundu2"
+      url: "yerinny518.github.io/"
+
 ---

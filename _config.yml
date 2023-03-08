@@ -1,5 +1,5 @@
 title: Jung Ye Rin
-subtitle: Jung Ye Rin
+subtitle: Welcome
 description: >- # this means to ignore newlines until "baseurl:"
   Hello. I am a Phd student in Computational Clinical Science Lab in Seoul National University.
 
@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: Curriculum vita(CV)/ Project / Publication
+    - text: Curriculum(CV) / Project / Publication
       url: /about
     - text: Posts
       url: /blog
