@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: About
+    - text: Curriculum vita(CV)/ Project / Publication
       url: /about
     - text: Posts
       url: /blog
@@ -27,9 +27,6 @@ author_website_url: "https://github.com/yerinny518"
 typewrite-text: I am a PhD student in Computational Clinical Science Lab in Seoul National University. I am mainly interested in clinical psychiatry. Please check 'Curriculum vita(CV)/ Project / Publication' for more information :D
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
-
-# Work Experience
-author_work_experiences_details:
 
 # Education
 author_education_details:
