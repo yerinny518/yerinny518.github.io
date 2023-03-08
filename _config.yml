@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: Curriculum vita(CV)/ Project / Publication
+    - text: About
       url: /about
     - text: Posts
       url: /blog
