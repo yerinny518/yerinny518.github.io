@@ -1,5 +1,5 @@
 title: Jung Ye Rin
-subtitle: Welcome
+subtitle: yerinny
 description: >- # this means to ignore newlines until "baseurl:"
   Hello. I am a Phd student in Computational Clinical Science Lab in Seoul National University.
 
@@ -12,8 +12,6 @@ urls:
       url: /about
     - text: Posts
       url: /blog
-    - text: Contact
-      url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)

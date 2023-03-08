@@ -10,13 +10,11 @@ My website has 3 main categories
 
 - Curriculum(CV) / Project / Publication
 
-  : This is the main category. Academic publication and careers are listed in here. 
+  : This is the MAIN category. Academic publication, careers, contact(GitHub address, email, instagram) are listed in here. 
 
 - Posts
 
   : Daily events are posted in here ! 
-
-- Contacts
 
 
 
