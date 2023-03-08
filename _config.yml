@@ -1,16 +1,16 @@
 title: Jung Ye Rin
 subtitle: Jung Ye Rin
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello. I am a Phd student in Computational Clinical Science Lab in Seoul National University
+  Hello. I am a Phd student in Computational Clinical Science Lab in Seoul National University.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "yerinny518.github.io/" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
 urls:
-    - text: About
+    - text: Curriculum vita(CV)/ Project / Publication
       url: /about
-    - text: Blog
+    - text: Posts
       url: /blog
     - text: Contact
       url : /contact
@@ -20,13 +20,16 @@ urls:
 
 author_logo: profile.png
 author: Jung Ye Rin
-author_bio: Hi, my name is Jung Ye RIn. I am mainly interested in clinical psychiatry.
+author_bio: Hello. My name is Jung Ye RIn. I am a Phd student in Computational Clinical Science Lab in Seoul National University. My research interests are Addiction and Clinical Psychiatry.
 author_email: "ajtwlsdudls@snu.ac.kr"
 author_location: Republic of Korea
 author_website_url: "https://github.com/yerinny518"
-typewrite-text: I am a PhD student in Computational Clinical Science Lab in Seoul National University. I am mainly interested in clinical psychiatry. 
+typewrite-text: I am a PhD student in Computational Clinical Science Lab in Seoul National University. I am mainly interested in clinical psychiatry. Please check 'Curriculum vita(CV)/ Project / Publication' for more information :D
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
+
+# Work Experience
+author_work_experiences_details:
 
 # Education
 author_education_details:
@@ -42,24 +45,11 @@ github_username:  yerinny518
 instagram_username: ye.rinny
 
 
-#for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
-
-# disqus_shortname: sujay-kundu
-hyvor_talk_website_id: 476
-
-# wakatime username (coding activity)
-wakatime_username: sujaykundu777
-
-# mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+formspree_email: ajtwlsdudls@snu.ac.kr
 
-# releases - widget can be (sidebar, modal or embed)
-olvy_organization: devlopr
-olvy_widget_type: sidebar
 
 # syntax highlighter
 markdown: kramdown
