@@ -1,59 +1,57 @@
-# Setup
-title: JUNG YE RIN
-description: Computational & Clinical psychiatry, Decision Making
-url: https://yerinny518.github.io/
-avatar: /yerinny.jpg
-paginate: 5
-permalink: pretty
-cover_image: /cloud.jpg
-
-# Gems
-plugins:
-  - jekyll-gist
+# Build settings
+gems:
+  - jemoji
   - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
 
-# Optimize Jekyll
-exclude:
-  - .editorconfig
-  - .git
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
-  - scripts/
-  - not-pure-poole.gemspec
+# Site settings
+title: "JUNG YE RIN"
+description: > # this means to ignore newlines until "email:"
+   A Jekyll theme - Medium inspired
 
-# Optimize Jekyl SEO Tag
-twitter:
-  username: yerinny
-  card: summary
-logo: logo.png
+email: ajtwlsdudls@snu.ac.kr
+#blog logo
+logo: "/assets/images/df_logo.jpg"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "/assets/images/cloud.png"
+
+name: 'JUNG YE RIN'
+author: 'JUNG YE RIN'
+author_image: "/assets/images/yerinny.jpg"
+
+paginate:	5
+
+url: "https://yerinny518.github.io" # the base hostname & protocol for your site
+baseurl: "https://yerinny518.github.io"
+#used to display twitter cards
+twitter_handle: '@yerinny'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
 social:
-  name: JUNG YE RIN
-  links:
-    - https://twitter.com/yerinny
-    - https://github.com/yerinny518
-google_site_verification: xxxxx
-lang: en
+  - icon:	twitter
+    url:	https://twitter.com/yerinny
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
 
-sass:
-  sass_dir: _sass
-  style: :compressed
 
-# Options
+  - icon:	github
+    url:	https://yerinny518.github.io
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
 
-# Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
-
-# Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
-
-# Specify the author for blog posts
-author:
-  name: Ye Rin Jung
-  url: https://yerinny518.github.io/
-  email: ajtwlsdudls@snu.ac.kr
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
