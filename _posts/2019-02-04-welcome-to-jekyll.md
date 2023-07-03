@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "CCS lab"
+title:  "WCCBT Conference"
 summary: "Learn how to add categories in posts"
-author: xplor4r
+author: yerinny
 date: '2021-02-28 1:35:23 +0530'
 category: ['post']
 tags: jekyll
