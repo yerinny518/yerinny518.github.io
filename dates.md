@@ -1,5 +1,5 @@
 ---
 layout: archive-dates
-permalink: /dates/
-title: Dates
+permalink: /_posts/
+title: Posts
 ---
