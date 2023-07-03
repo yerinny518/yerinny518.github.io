@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://yerinny518.github.io/#/
+title: JUNG YE RIN
+description: Computational & Clinical psychiatry, Decision Making
+url: https://yerinny518.github.io/
 avatar: /yerinny.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /cloud.jpg
 
 # Gems
 plugins:
@@ -33,9 +33,9 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Ye Rin Jung
+  name: JUNG YE RIN
   links:
-    - https://twitter.com/vszhub
+    - https://twitter.com/yerinny
     - https://github.com/yerinny518
 google_site_verification: xxxxx
 lang: en
@@ -55,5 +55,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: Ye Rin Jung
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  url: https://yerinny518.github.io/
+  email: ajtwlsdudls@snu.ac.kr
