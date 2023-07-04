@@ -1,11 +1,11 @@
 # Site wide configuration
 
 title: "JUNG YE RIN"
-description: "This is a description of my awesome site."
+description: "Hello. My name is Jung Ye Rin. I am a Phd student in Computational Clinical Science Lab in Seoul National University. "
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: https://yerinny518.github.io
 feed:
   path: atom.xml
 
