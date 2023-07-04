@@ -1,59 +1,64 @@
-# Setup
-title: JUNG YE RIN
-description: Computational & Clinical psychiatry, Decision Making
-url: https://yerinny518.github.io/
-avatar: /yerinny.jpg
-paginate: 5
-permalink: pretty
-cover_image: /cloud.jpg
+# Site wide configuration
 
-# Gems
-plugins:
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
+title: "JUNG YE RIN"
+description: "This is a description of my awesome site."
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale: en
+url:
+feed:
+  path: atom.xml
 
-# Optimize Jekyll
-exclude:
-  - .editorconfig
-  - .git
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
-  - scripts/
-  - not-pure-poole.gemspec
-
-# Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
-logo: logo.png
-social:
-  name: JUNG YE RIN
-  links:
-    - https://twitter.com/yerinny
-    - https://github.com/yerinny518
-google_site_verification: xxxxx
-lang: en
+# Jekyll configuration
 
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 
-# Options
 
-# Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
+# Site owner
+owner:
+  name:
+  email:
+  twitter:
+  google:
+    ad-client:
+    ad-slot:
+  bio:
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  disqus-shortname:
 
-# Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
 
-# Specify the author for blog posts
-author:
-  name: Ye Rin Jung
-  url: https://yerinny518.github.io/
-  email: ajtwlsdudls@snu.ac.kr
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp

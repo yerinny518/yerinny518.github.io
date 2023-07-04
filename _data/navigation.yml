@@ -1,4 +1,6 @@
-- title: Blog
-  url: /
-- title: About
-  url: /about/
+# Site navigation links
+
+- title:
+  url:
+  excerpt:
+  image:
