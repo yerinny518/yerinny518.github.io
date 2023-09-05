@@ -25,9 +25,9 @@ plugins:
 
 
 # Site owner
-owner:
+owner: Jung Ye Rin 
   name:
-  email:
+  email: ccusa@naver.com
   twitter:
   google:
     ad-client:
@@ -62,3 +62,19 @@ exclude:
   - package.json
   - spec
   - tmp
+  
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      sidebar:                  # 추가한 부분
+        nav: "sidebar-category" # 추가한 부분

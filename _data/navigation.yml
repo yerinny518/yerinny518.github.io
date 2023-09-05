@@ -1,6 +1,13 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+sidebar-category:
+- title: "Table of Contents"
+  children:
+    - title: "Publications"
+      url: publications/
+    - title: "Conference"
+      url: conference/
+    - title: "Academic Certificate"
+      url: academiccertificate/
+    - title: "Experience"
+      url: experience/ 
